@@ -1,7 +1,7 @@
 # baseURL = ''
 languageCode = 'zh'
 # 💡: 文档名字
-title = 'xxx 的文档'
+title = '开源操作系统社区(os2c, Open Source Operating System Community)'
 
 # (Optional) Set this to true to enable 'Last Modified by' date and git author
 #  information on 'doc' type pages.
@@ -17,14 +17,14 @@ disableKinds = ['taxonomy']
 [[menu.after]]
   name = '仓库地址'
   # 💡: 文档仓库地址
-  url = 'https://github.com/kern-crates/hugo-book-template'
+  url = 'https://github.com/os2c/os2c.github.io'
   weight = 10
 
 [params]
   BookTheme = 'auto'
   BookSection = '*'
   # 💡: 文档仓库地址
-  BookRepo = 'https://github.com/kern-crates/hugo-book-template'
+  BookRepo = 'https://github.com/os2c/os2c.github.io'
   BookEditPath = 'edit/main'
   BookCommitPath = 'commit'
   BookDateFormat = 'Jan 2, 2006'
